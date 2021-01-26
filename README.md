@@ -8,4 +8,4 @@ BA Hons - Media - Univeristy of Chester
 • Currently studying at CodeNation to become a software developer
 
 
-{LinkedIn} (http://linkedin.com/in/brendan-fong-8b4b60142)
+[LinkedIn](http://linkedin.com/in/brendan-fong-8b4b60142)
