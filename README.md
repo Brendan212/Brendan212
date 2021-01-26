@@ -1,4 +1,4 @@
-### Hi I'm Brendan Fong👋
+### Hi, I'm Brendan Fong👋
 
 BA Hons - Media - Univeristy of Chester
 
