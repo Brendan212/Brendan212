@@ -1,6 +1,6 @@
 ### Hi, I'm Brendan Fong👋
 
-https://github.com/Brendan212/Brendan212/issues/1#issue-794162495
+![github](https://github.com/Brendan212/Brendan212/issues/1#issue-794162495)
 
 BA Hons - Media - Univeristy of Chester
 
